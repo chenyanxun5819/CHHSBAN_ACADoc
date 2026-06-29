@@ -1,0 +1,178 @@
+[07:26:33] [INFO] [加载凭证] 开始检索本地配置...
+[07:26:34] [⚠] [加载凭证] 异常: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+[07:26:34] [✗] 港: Traceback (most recent call last):
+  File "ui\pages\settings_page.py", line 237, in _load_saved_credentials
+TypeError: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+
+[07:26:34] [INFO] ✓ 切换到【项目输入】页面
+[07:26:34] [✓] SMS 学生成绩自动上传系统已启动
+[07:26:34] [INFO] 📂 日志保存位置: C:\Users\MSI\.sms_app\logs\sms_app_2026-06-20.log
+[07:26:35] [INFO] 
+======================================================================
+[07:26:35] [INFO] 🚀 启动检查：增量更新项目数据
+[07:26:35] [INFO] ======================================================================
+[07:26:35] [INFO]   📍 正在连接系统...
+[07:26:45] [✗]   ❌ 连接失败: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x2a616185160>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=10)'))
+[07:26:45] [INFO] ======================================================================
+
+[07:26:45] [⚠] ⚠️  数据检查跳过 - 连接失败: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x2a616185160>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=10)'))
+[07:26:45] [INFO] 正在搜索项目: ACA CMI...
+[07:26:45] [INFO] 正在搜索项目: ACA CMI...
+[07:26:45] [INFO] ✅ 找到 51 个项目
+[07:26:45] [✓] ✅ 找到 51 个项目
+[07:26:45] [✓] 新项目代码已生成: ACA CMI152
+[07:26:45] [INFO] ✅ 找到 51 个项目
+[07:26:45] [✓] ✅ 找到 51 个项目
+[07:26:45] [✓] 新项目代码已生成: ACA CMI152
+[07:27:00] [✓] 新项目代码已生成: ACA CMI150
+[07:27:03] [✓] 新项目代码已生成: ACA CMI150
+[07:28:35] [INFO] ✓ 切换到【成绩上传】页面
+[07:28:46] [✓] 已选择文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[07:28:46] [INFO] 已加载 20 行数据
+[07:28:54] [INFO] 开始上传: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[07:28:54] [INFO] [上传线程] 读取 Excel 文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[07:28:54] [INFO] [上传线程] 读取到活动代码: ACA CMI152
+[07:28:54] [INFO] [上传线程] 读取到 27 条有效数据
+[07:28:54] [INFO] [上传线程] 日期: 2026-04-23, 活动代码: ACA CMI152
+[07:28:54] [INFO] [上传线程] 创建 SMS 处理器...
+[07:28:54] [INFO] [上传线程] 开始上传数据（带自动重新登入机制）...
+[07:29:09] [✗] ERROR: Login error: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x2a61617ac10>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=15)'))
+[07:29:09] [✗] [上传线程] ❌ Login error: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x2a61617ac10>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=15)'))
+[07:29:09] [✗] ❌ Login error: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x2a61617ac10>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=15)'))
+[08:07:07] [INFO] [加载凭证] 开始检索本地配置...
+[08:07:08] [⚠] [加载凭证] 异常: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+[08:07:08] [✗] 港: Traceback (most recent call last):
+  File "ui\pages\settings_page.py", line 237, in _load_saved_credentials
+TypeError: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+
+[08:07:08] [INFO] ✓ 切换到【项目输入】页面
+[08:07:08] [✓] SMS 学生成绩自动上传系统已启动
+[08:07:08] [INFO] 📂 日志保存位置: C:\Users\MSI\.sms_app\logs\sms_app_2026-06-20.log
+[08:07:09] [INFO] 
+======================================================================
+[08:07:09] [INFO] 🚀 启动检查：增量更新项目数据
+[08:07:09] [INFO] ======================================================================
+[08:07:09] [INFO]   📍 正在连接系统...
+[08:07:19] [✗]   ❌ 连接失败: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x26ce5825160>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=10)'))
+[08:07:19] [INFO] ======================================================================
+
+[08:07:19] [⚠] ⚠️  数据检查跳过 - 连接失败: HTTPConnectionPool(host='sms.chhsban.edu.my', port=80): Max retries exceeded with url: /sms/index.php?r=site/login (Caused by ConnectTimeoutError(<HTTPConnection(host='sms.chhsban.edu.my', port=80) at 0x26ce5825160>, 'Connection to sms.chhsban.edu.my timed out. (connect timeout=10)'))
+[08:08:33] [INFO] [加载凭证] 开始检索本地配置...
+[08:08:33] [⚠] [加载凭证] 异常: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+[08:08:33] [✗] 港: Traceback (most recent call last):
+  File "C:\Users\MSI\Documents\2025_affairs\學術結果登記\学术上传python\sms_app\ui\pages\settings_page.py", line 237, in _load_saved_credentials
+    self.console.log_success(f"[加载凭证] 已加载保存的凭证 (\u8d26号: {username})", "#4ec9b0")
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+
+[08:08:33] [INFO] 已更新项目列表: 0 个项目
+[08:08:33] [INFO] ✓ 已加载 2437 个项目
+[08:08:33] [INFO] ✓ 切换到【项目输入】页面
+[08:08:33] [✓] SMS 学生成绩自动上传系统已启动
+[08:08:33] [INFO] 📂 日志保存位置: C:\Users\MSI\.sms_app\logs\sms_app_2026-06-20.log
+[08:08:34] [INFO] 
+======================================================================
+[08:08:34] [INFO] 🚀 启动检查：增量更新项目数据
+[08:08:34] [INFO] ======================================================================
+[08:08:34] [INFO]   📍 正在连接系统...
+[08:08:34] [✓]   ✅ 已连接
+[08:08:35] [INFO]   📦 缓存总数: 2437 条
+[08:08:35] [INFO]   📄 缓存最后一页: 第 244 页
+[08:08:35] [INFO]   📍 获取页面总数...
+[08:08:35] [✓]   ✅ 页面总数: 2437
+[08:08:35] [✓]   ✅ 数据一致，无需更新
+[08:08:35] [INFO] ======================================================================
+
+[08:08:35] [✓] ✅ 数据检查完成 - ✅ 数据一致 (总数: 2437)
+[08:08:41] [INFO] ✓ 切换到【成绩上传】页面
+[08:09:06] [✓] 已选择文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:09:06] [INFO] 已加载 20 行数据
+[08:09:09] [INFO] 开始上传: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:09:09] [INFO] [上传线程] 读取 Excel 文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:09:09] [INFO] [上传线程] 读取到活动代码: ACA CMI152
+[08:09:09] [INFO] [上传线程] 读取到 27 条有效数据
+[08:09:09] [INFO] [上传线程] 日期: 2026-04-23, 活动代码: ACA CMI152
+[08:09:09] [INFO] [上传线程] 创建 SMS 处理器...
+[08:09:09] [INFO] [上传线程] 开始上传数据（带自动重新登入机制）...
+[08:09:09] [✗] [上传线程] 异常: SMSHandler.upload_student_scores() got an unexpected keyword argument 'date'
+[08:09:09] [✗] ❌ 上传异常: SMSHandler.upload_student_scores() got an unexpected keyword argument 'date'
+[08:44:01] [INFO] [加载凭证] 开始检索本地配置...
+[08:44:02] [⚠] [加载凭证] 异常: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+[08:44:02] [✗] 港: Traceback (most recent call last):
+  File "ui\pages\settings_page.py", line 239, in _load_saved_credentials
+TypeError: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+
+[08:44:02] [INFO] 已更新项目列表: 0 个项目
+[08:44:02] [INFO] ✓ 已加载 2437 个项目
+[08:44:02] [INFO] ✓ 切换到【项目输入】页面
+[08:44:02] [✓] SMS 学生成绩自动上传系统已启动
+[08:44:02] [INFO] 📂 日志保存位置: C:\Users\MSI\.sms_app\logs\sms_app_2026-06-20.log
+[08:44:02] [INFO] 
+======================================================================
+[08:44:02] [INFO] 🚀 启动检查：增量更新项目数据
+[08:44:02] [INFO] ======================================================================
+[08:44:02] [INFO]   📍 正在连接系统...
+[08:44:02] [✓]   ✅ 已连接
+[08:44:03] [INFO]   📦 缓存总数: 2437 条
+[08:44:03] [INFO]   📄 缓存最后一页: 第 244 页
+[08:44:03] [INFO]   📍 获取页面总数...
+[08:44:03] [✓]   ✅ 页面总数: 2437
+[08:44:03] [✓]   ✅ 数据一致，无需更新
+[08:44:03] [INFO] ======================================================================
+
+[08:44:03] [✓] ✅ 数据检查完成 - ✅ 数据一致 (总数: 2437)
+[08:44:05] [INFO] ✓ 切换到【成绩上传】页面
+[08:44:14] [✓] 已选择文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:44:14] [INFO] 已加载 20 行数据
+[08:44:18] [INFO] 开始上传: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:44:18] [INFO] [上传线程] 读取 Excel 文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:44:18] [INFO] [上传线程] 读取到活动代码: ACA CMI152
+[08:44:18] [INFO] [上传线程] 读取到 27 条有效数据
+[08:44:18] [INFO] [上传线程] 日期: 2026-04-23, 活动代码: ACA CMI152
+[08:44:18] [INFO] [上传线程] 创建 SMS 处理器...
+[08:44:18] [INFO] [上传线程] 开始上传数据（带自动重新登入机制）...
+[08:44:41] [✓] [上传线程] ✅ 上传成功！(27/27 条)
+[08:44:41] [✓] ✅ 上传成功！(27/27 条)
+[08:48:01] [INFO] [加载凭证] 开始检索本地配置...
+[08:48:02] [⚠] [加载凭证] 异常: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+[08:48:02] [✗] 港: Traceback (most recent call last):
+  File "ui\pages\settings_page.py", line 239, in _load_saved_credentials
+TypeError: ConsoleOutput.log_success() takes 2 positional arguments but 3 were given
+
+[08:48:02] [INFO] 已更新项目列表: 0 个项目
+[08:48:02] [INFO] ✓ 已加载 2437 个项目
+[08:48:02] [INFO] ✓ 切换到【项目输入】页面
+[08:48:02] [✓] SMS 学生成绩自动上传系统已启动
+[08:48:02] [INFO] 📂 日志保存位置: C:\Users\MSI\.sms_app\logs\sms_app_2026-06-20.log
+[08:48:03] [INFO] 
+======================================================================
+[08:48:03] [INFO] 🚀 启动检查：增量更新项目数据
+[08:48:03] [INFO] ======================================================================
+[08:48:03] [INFO]   📍 正在连接系统...
+[08:48:03] [✓]   ✅ 已连接
+[08:48:03] [INFO]   📦 缓存总数: 2437 条
+[08:48:03] [INFO]   📄 缓存最后一页: 第 244 页
+[08:48:03] [INFO]   📍 获取页面总数...
+[08:48:03] [✓]   ✅ 页面总数: 2437
+[08:48:03] [✓]   ✅ 数据一致，无需更新
+[08:48:03] [INFO] ======================================================================
+
+[08:48:03] [✓] ✅ 数据检查完成 - ✅ 数据一致 (总数: 2437)
+[08:48:04] [INFO] ✓ 切换到【成绩上传】页面
+[08:48:11] [✓] 已选择文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:48:11] [INFO] 已加载 20 行数据
+[08:48:12] [INFO] 开始上传: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:48:12] [INFO] [上传线程] 读取 Excel 文件: C:/Users/MSI/Documents/2026/06_JUN/ACA CMI152 2026 国语演讲所有名单.xlsx
+[08:48:12] [INFO] [上传线程] 读取到活动代码: ACA CMI152
+[08:48:12] [INFO] [上传线程] 读取到 27 条有效数据
+[08:48:12] [INFO] [上传线程] 日期: 2026-04-23, 活动代码: ACA CMI152
+[08:48:12] [INFO] [上传线程] 创建 SMS 处理器...
+[08:48:12] [INFO] [上传线程] 开始上传数据（带自动重新登入机制）...
+[08:48:12] [INFO] 
+📍 第 1 次尝试登入...
+[08:48:12] [INFO] ⏳ 获取登入页面: http://192.168.0.6/sms/index.php?r=site/login
+[08:48:12] [INFO] ✓ 登入页面已加载
+[08:48:12] [INFO] 📝 提交登入凭证...
+[08:48:12] [✓] ✓ 登入成功！当前 URL: http://192.168.0.6/sms/index.php?r=site/index
+[08:48:12] [✗] [上传线程] ❌ 
+[08:48:12] [✗] ❌ 
